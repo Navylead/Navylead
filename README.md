@@ -20,3 +20,4 @@ Here are some ideas to get you started:
    + **Telegram: @Navylead**
 ## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)
 ## [Home Works](https://github.com/Navylead/HW)
+[![codewars](https://www.codewars.com/users/Navylead/badges/small)](https://www.codewars.com/users/Navylead)
