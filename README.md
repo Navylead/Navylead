@@ -18,3 +18,5 @@ Here are some ideas to get you started:
    + **My [LinkedIn](https://www.linkedin.com/in/kirill-dyshaev-mgn174/)**
    + **Mail: sorrowmackintosh@mail.ru**
    + **Telegram: @Navylead**
+## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)
+## [Home Works](https://github.com/Navylead/HW)
