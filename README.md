@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ## Contacts:
-    + My [LinkedIn](https://www.linkedin.com/in/kirill-dyshaev-mgn174/) -->
+## Contacts:
+   + **My [LinkedIn](https://www.linkedin.com/in/kirill-dyshaev-mgn174/)**
+   + **Mail: sorrowmackintosh@mail.ru**
+   + **Telegram: @Navylead**
