@@ -20,5 +20,5 @@ Here are some ideas to get you started:
    + **Telegram: @Navylead**
 ## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)
 ## [Home Works](https://github.com/Navylead/HW)
-## [ПОРТФОЛИО](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD)
+## [ПОРТФОЛИО](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD?usp=sharing)
 [![codewars](https://www.codewars.com/users/Navylead/badges/large)](https://www.codewars.com/users/Navylead)
