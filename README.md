@@ -24,8 +24,8 @@ Here are some ideas to get you started:
    + **My [LinkedIn](https://www.linkedin.com/in/kirill-dyshaev-mgn174/)**
    + **Mail: sorrowmackintosh@mail.ru**
    + **Telegram: @Navylead**
-## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)
-## [Home Works](https://github.com/Navylead/HW)
+<!--## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)-->
+<!--## [Home Works](https://github.com/Navylead/HW)-->
 ## [DOCS](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD?usp=sharing)
 <!--## [<img src="https://www.digiseller.ru/preview/717597/p2_2304099_bf4eb712.gif">](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD?usp=sharing)-->
 [![codewars](https://www.codewars.com/users/Navylead/badges/large)](https://www.codewars.com/users/Navylead)
