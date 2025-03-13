@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Navylead/Navylead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +23,10 @@ Here are some ideas to get you started:
    + **My [LinkedIn](https://www.linkedin.com/in/kirill-dyshaev-mgn174/)**
    + **Mail: sorrowmackintosh@mail.ru**
    + **Telegram: @Navylead**
+## UI-cases:
+   + **Some of [Cypress](https://github.com/Navylead/cypress-tests)✨**
+   + **Some of [Playwright](https://github.com/Navylead/pw-tests)✨**
 <!--## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)-->
 <!--## [Home Works](https://github.com/Navylead/HW)-->
 ## [DOCS](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD?usp=sharing)
-## [cypressTests](https://github.com/Navylead/cypress-tests)
-## [playwrightTests](https://github.com/Navylead/pw-tests)
 [![codewars](https://www.codewars.com/users/Navylead/badges/large)](https://www.codewars.com/users/Navylead)
