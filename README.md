@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 <!--## [Skills](https://github.com/Navylead/Skills/blob/main/README.md)-->
 <!--## [Home Works](https://github.com/Navylead/HW)-->
 ## [DOCS](https://drive.google.com/drive/folders/12T_qIr-xJ-L9GRix2DK91msoRj4V1wlD?usp=sharing)
+## [cypressTests](https://github.com/Navylead/cypress-tests)
+## [playwrightTests](https://github.com/Navylead/pw-tests)
 [![codewars](https://www.codewars.com/users/Navylead/badges/large)](https://www.codewars.com/users/Navylead)
